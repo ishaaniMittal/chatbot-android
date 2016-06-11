@@ -3,22 +3,23 @@ package vmor.com.valarmorghulis.gson;
 /**
  * Created by Vijay on 11/06/2016.
  */
+
 import android.util.Log;
 
-        import com.android.volley.AuthFailureError;
-        import com.android.volley.DefaultRetryPolicy;
-        import com.android.volley.NetworkResponse;
-        import com.android.volley.ParseError;
-        import com.android.volley.Request;
-        import com.android.volley.Response;
-        import com.android.volley.toolbox.HttpHeaderParser;
-        import com.google.gson.Gson;
-        import com.google.gson.JsonSyntaxException;
+import com.android.volley.AuthFailureError;
+import com.android.volley.DefaultRetryPolicy;
+import com.android.volley.NetworkResponse;
+import com.android.volley.ParseError;
+import com.android.volley.Request;
+import com.android.volley.Response;
+import com.android.volley.toolbox.HttpHeaderParser;
+import com.google.gson.Gson;
+import com.google.gson.JsonSyntaxException;
 
-        import org.json.JSONObject;
+import org.json.JSONObject;
 
-        import java.io.UnsupportedEncodingException;
-        import java.util.Map;
+import java.io.UnsupportedEncodingException;
+import java.util.Map;
 
 /**
  * Created by imittal on 5/12/16.

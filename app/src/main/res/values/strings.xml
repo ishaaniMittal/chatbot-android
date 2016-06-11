@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Barclaycard</string>
     <string name="action_settings">Settings</string>
+    <string name="login">http://172.30.54.140/login/authenticate</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_chat">ChatActivity</string>
 </resources>
